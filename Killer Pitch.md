@@ -41,6 +41,8 @@ This is obviously not applicable to most hackathon participants, but is valuable
 - Give a short and polished live demo
 - Consider recording your live demo, editing it with a video editor like QuickTime or Camtasia, and just playing the edited / shortened video 
 
+## Recommended Pitch Length: Up to 10 minutes — Gives you enough time to explain the problem, showcase your solution, deliver a live demo, and answer key questions without rushing
+
 ## Best practices for delivery
 
 1. Practice and repetition
