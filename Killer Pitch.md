@@ -2,7 +2,7 @@
 
 ## Intro
 - You have very limited time (usually 2-5 minutes) to make a lasting impression
-- Your goal is to convince judges / investors that your product and company are worth their time and money
+- Your goal is to convince judges /investors that your project and idea are worth their time and money
 
 ## Key components of a great demo
 
@@ -12,7 +12,7 @@
 - Use a relatable example or startling statistic (the more hard hitting and succinct the analogy, the better)
 
 ### 2. Explain your solution (30-40 seconds)
-- Briefly describe your product/service
+- Briefly describe your project/idea
 - Highlight what makes it unique and innovative
 - Focus on the core value proposition and / or use case
 
