@@ -1,13 +1,5 @@
 # How to Give THE Killer Pitch or Hackathon Demo
 
-## Examples
-
-Here are some high quality demo day pitches for reference
-
-[Lattice YC Demo Day Pitch (W16) ](https://www.youtube.com/watch?v=92Ngj-jeC0g)
-
-[Ottimate](https://www.youtube.com/watch?v=SGjiSQc511A)
-
 ## Intro
 - You have very limited time (usually 2-5 minutes) to make a lasting impression
 - Your goal is to convince judges / investors that your product and company are worth their time and money
@@ -83,3 +75,10 @@ This is obviously not applicable to most hackathon participants, but is valuable
 - Focusing too much on features instead of benefits
 - Neglecting to practice and refine your delivery
 - Failing to clearly articulate your unique value proposition
+## Examples
+
+Here are some high quality demo day pitches for reference
+
+[Lattice YC Demo Day Pitch (W16) ](https://www.youtube.com/watch?v=92Ngj-jeC0g)
+
+[Ottimate](https://www.youtube.com/watch?v=SGjiSQc511A)
