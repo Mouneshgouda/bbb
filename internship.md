@@ -1,3 +1,9 @@
+## List
+
+https://docs.google.com/spreadsheets/d/14_BlZ2GxNkWI3mU3rNZv5FE0uoEhsJos/htmlview?utm_source=sp_auto_dm
+
+
+
 # 🚀 Internship Direct Apply Links
 
 A curated list of internship application links from top companies and internship platforms.  
